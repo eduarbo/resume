@@ -48,7 +48,7 @@ Oct 2016 – Jun 2017 · 9 mos
 - Helped to develop the video collaboration Power-Up powered by the Atlassian Video Service using React and OneSignal for push notifications
 - Worked with Atlassian Connect Express, toolkit that eases the process of creating Atlassian products
 
-## Encora
+## Encora Labs
 
 **Senior Front End Developer**  
 Jan 2016 – Sep 2016 · 9 mos
