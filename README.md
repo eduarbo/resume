@@ -10,9 +10,9 @@
 
 ---
 
-# Summary
+# Professional Summary
 
-I am a meticulous Web Developer with more than 10 years of professional experience happily working remotely from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6). I have worked for agencies, startups and large SaaS companies (mainly for the travel industry and related services) in distributed agile teams to create consumer products with a positive impact on revenue and conversion rates.
+I am a meticulous Software Developer with more than 12 years of professional experience working remotely from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6). I have worked for agencies, startups and large SaaS companies (mainly for the travel industry and related services) in distributed agile teams to create consumer products with a positive impact on revenue and conversion rates.
 
 Proficient in **CSS** and **JavaScript** Frameworks with extensive knowledge of *accessibility standards*, *localization* techniques, *cross-browser* compatibility and *responsive* design. Write efficient, good performing and reusable code without sacrificing maintainability complemented by automated *E2E testing* and *unit tests* to ensure production readiness and avoid risks post-release.
 
@@ -23,7 +23,7 @@ My current stack involves **React**, **Node**, **TypeScript**, **REST**, and **G
 
 ## Transcarent
 
-**Senior Full Stack Developer**  
+**Senior Software Developer**  
 Jan 2022 – Present
 
 - Collaborated with product and UX/UI design team to develop a Behavioral Health solution among other health and care products with **React**, **NextJS**, **TypeScript**, **GraphQL** and **React Testing Library** to address Member and Customer needs, improve user experience, access to care and Clinical outcomes and reduce Total Cost of Care
@@ -32,7 +32,7 @@ Jan 2022 – Present
 
 ## OpenTable
 
-**Senior Full Stack Developer**  
+**Senior Software Developer**  
 Aug 2017 – Dec 2021 · 4 yrs 4 mos
 
 - Led projects that allowed the legacy **jQuery**-based application to be gradually migrated to an isomorphic, responsive, cross-browser compatible and accessibility-compliant application using **React**, **Redux**, **Express**, **Cypress**, **GraphQL** and **REST** whilst minimizing downtime and disruption to users
@@ -61,7 +61,7 @@ Jan 2016 – Sep 2016 · 9 mos
 **Front End Developer**  
 Mar 2013 – Dec 2015 · 2 yrs 10 mos
 
-- Worked on an initiative called Encore to give call center travel agents a new platform with a friendlier, more robust, and flexible booking experience so they could move from the usual command line options where each new hire took up to six months to become familiar with the system
+- Worked on an initiative to give call center travel agents a new platform with a friendlier, more robust, and flexible booking experience so they could move from the usual command line options where each new hire took up to six months to become familiar with the system
 - Migrated the Front End stack from **FreeMarker** to **Ember** using **Mocha**, **Jasmine** and **Chai** for Test-driven development (TDD)
 - Mentored and assisted new hires as well as other developers learning **Ember**
 - Ensured compliance with security standards (PCI-DSS)
