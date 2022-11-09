@@ -12,7 +12,7 @@
 
 # Professional Summary
 
-I am a meticulous Software Developer with more than 12 years of professional experience working remotely from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6). I have worked for agencies, startups and large SaaS companies (mainly for the travel industry and related services) in distributed agile teams to create consumer products with a positive impact on revenue and conversion rates.
+I am a meticulous Software Developer with more than 12 years of professional experience working remotely from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (CST). I have worked for agencies, startups and large SaaS companies (mainly for the travel industry and related services) in distributed agile teams to create consumer products with a positive impact on revenue and conversion rates.
 
 Proficient in **CSS** and **JavaScript** Frameworks with extensive knowledge of *accessibility standards*, *localization* techniques, *cross-browser* compatibility and *responsive* design. Write efficient, good performing and reusable code without sacrificing maintainability complemented by automated *E2E testing* and *unit tests* to ensure production readiness and avoid risks post-release.
 
@@ -44,7 +44,7 @@ Aug 2017 – Dec 2021 · 4 yrs 4 mos
 **Senior Front End Developer**  
 Oct 2016 – Jun 2017 · 9 mos
 
-- Developed Trello Power-Ups for [Bitbucket](https://trello.com/power-ups/588a331cc86ffbe08f5d2c67), [JIRA](https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira) and [Confluence](https://trello.com/power-ups/586be37142f94dc0871fbcbb) to allow teams to attach branches, commits and pull requests to cards, and have real-time status updates using plain **JavaScript**, **SCSS**, **JS templates** and **Webpack**
+- Developed Trello Power-Ups for [Bitbucket](https://support.atlassian.com/trello/docs/using-the-bitbucket-power-up/), [JIRA](https://trello.com/power-ups/586be36326cc4c7e9f70beb3) and [Confluence](https://trello.com/power-ups/586be37142f94dc0871fbcbb) to allow teams to attach branches, commits and pull requests to cards, and have real-time status updates using plain **JavaScript**, **SCSS**, **JS templates** and **Webpack**
 - Helped to develop the video collaboration Power-Up powered by the Atlassian Video Service using React and OneSignal for push notifications
 - Worked with Atlassian Connect Express, toolkit that eases the process of creating Atlassian products
 
