@@ -13,6 +13,8 @@
 
 <a href="./Eduardo Ruiz Macias - Resume.pdf">![Download Resume in PDF](https://img.shields.io/badge/Download-Resume%20in%20PDF-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAA9klEQVQokaWSwSrEURSHv59sp0liYSHN1kIpCzVbtngBzd4TKAtv4RGsWTLJXhSLmVKSBZM8gCnls/AfXWM0xVmd3/nu79577rnwx0gp1AbQGFrzmKT7q1FdBg6B84LXgC1gI8nJyKPVlro/VFtQu2pHXS/ZxPhuqAMPwJG6MihOjjE9A9tV/gIsAhdjjUlegXZ17eY3NkjUGjADPCXpq/PAW5JewQB61YZfxpZ6p96q0+q9eqPuFuxUXYKfj9MB+sBspTeBtYLtJLkeZawDe8XA34t2pvicK6OMZ0mOC30AXFV5O8klw6HOVV9uoJvqqjoxzP4VHxovhIfhWOU4AAAAAElFTkSuQmCC)</a>
 
+<h1 align="center">Eduardo Ruiz Macias<br /><sub>Senior Software Developer</sub></h1>
+
 # Professional Summary
 
 I am a meticulous Software Developer with more than 12 years of professional experience working remotely from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (CST). I have worked for agencies, startups and large SaaS companies (mainly for the travel industry and related services) in distributed agile teams to create consumer products with a positive impact on revenue and conversion rates.
