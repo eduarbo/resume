@@ -1,4 +1,5 @@
-> ⚠️ Recruiters please notice
+> **Warning** Recruiters please notice
+>
 > In order for me to help you not to waste time in your recruiting efforts, I’d like you to know the following:
 > 
 > - I am not a US citizen
@@ -9,6 +10,8 @@
 > Are you still interested in hiring me? send me an email to <eduarbo@gmail.com>
 
 ---
+
+<a href="./Eduardo Ruiz Macias - Resume.pdf">![Download Resume in PDF](https://img.shields.io/badge/Download-Resume%20in%20PDF-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAA9klEQVQokaWSwSrEURSHv59sp0liYSHN1kIpCzVbtngBzd4TKAtv4RGsWTLJXhSLmVKSBZM8gCnls/AfXWM0xVmd3/nu79577rnwx0gp1AbQGFrzmKT7q1FdBg6B84LXgC1gI8nJyKPVlro/VFtQu2pHXS/ZxPhuqAMPwJG6MihOjjE9A9tV/gIsAhdjjUlegXZ17eY3NkjUGjADPCXpq/PAW5JewQB61YZfxpZ6p96q0+q9eqPuFuxUXYKfj9MB+sBspTeBtYLtJLkeZawDe8XA34t2pvicK6OMZ0mOC30AXFV5O8klw6HOVV9uoJvqqjoxzP4VHxovhIfhWOU4AAAAAElFTkSuQmCC)</a>
 
 # Professional Summary
 
