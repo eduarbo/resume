@@ -34,7 +34,7 @@ I'm a remote **Software Developer** working from [*Colima, México*](https://goo
 
 ## OpenTable
 
-**Senior Software Developer**
+**Senior Software Developer**  
 *Aug 2017 – Dec 2021 · 4 yrs 4 mos*
 
 - Migrated legacy jQuery-based application to an isomorphic, responsive, cross-browser compatible, and accessibility-compliant app using **React**, **Redux**, **Express**, **Cypress**, **GraphQL**, and **REST** with minimal downtime.
