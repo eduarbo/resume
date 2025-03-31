@@ -20,7 +20,7 @@ Senior Software Developer based in [*Colima, México*](https://goo.gl/maps/Dq3yZ
 
 ## Experience
 
-### Transcarent (via Encora)
+### [Transcarent](https://transcarent.com/) (via Encora)
 
 **Senior Software Developer**
 *Jan 2022 – Present*
@@ -31,7 +31,7 @@ Senior Software Developer based in [*Colima, México*](https://goo.gl/maps/Dq3yZ
 - Implemented dynamic client campaign modals with **Contentful** integration, handling multiple active campaigns while ensuring only one is shown at a time
 
 
-### OpenTable (via Encora)
+### [OpenTable](https://www.opentable.com/) (via Encora)
 
 **Senior Software Developer**
 *Aug 2017 – Dec 2021 · 4 yrs 4 mos*
@@ -41,7 +41,7 @@ Senior Software Developer based in [*Colima, México*](https://goo.gl/maps/Dq3yZ
 - Led technical debt resolution and product innovation during the COVID-19 pandemic
 
 
-### Atlassian (via Encora)
+### [Atlassian](https://www.atlassian.com/) (via Encora)
 
 **Senior Front End Developer**
 *Oct 2016 – Jun 2017 · 9 mos*
@@ -51,7 +51,7 @@ Senior Software Developer based in [*Colima, México*](https://goo.gl/maps/Dq3yZ
 - Used **Atlassian Connect Express** to simplify and accelerate the development of Atlassian integrations
 
 
-### Encora Innovation Labs
+### [Encora](https://www.encora.com/) Innovation Labs
 
 **Senior Front End Developer**
 *Jan 2016 – Sep 2016 · 9 mos*
@@ -60,7 +60,7 @@ Senior Software Developer based in [*Colima, México*](https://goo.gl/maps/Dq3yZ
 - Developed an in-house Knowledge Management platform using **React**
 
 
-### Switchfly (via Encora)
+### [Switchfly](https://www.switchfly.com/) (via Encora)
 
 **Front End Developer**
 *Mar 2013 – Dec 2015 · 2 yrs 10 mos*
@@ -71,7 +71,7 @@ Senior Software Developer based in [*Colima, México*](https://goo.gl/maps/Dq3yZ
 - Ensured compliance with security standards (**PCI-DSS**)
 
 
-### Tango
+### [Tango](https://www.tango.io/)
 
 **Front End Developer**
 *Aug 2010 – Feb 2013 · 2 yrs 7 mos*
