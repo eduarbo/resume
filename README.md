@@ -15,7 +15,7 @@
 
 ## Professional Summary
 
-Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (Remote - CST) with **14+ years of experience** specializing in front-end development and building scalable, user-focused web applications. Skilled in **React, TypeScript, Node, Redux, GraphQL, and REST**, with extensive experience implementing solutions for **accessibility (WCAG 2.1 AA)**, **localization**, **responsive design**, and thorough testing (unit, integration, E2E). Proven track record of delivering impactful projects across healthcare, SaaS, travel, and e-commerce industries, driving significant improvements in conversion rates and revenue. Quick learner, adaptable, and experienced working remotely in diverse, cross-functional teams.
+Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (Remote - CST) with **14+ years of experience** specializing in front-end development and building scalable, user-focused web applications. Skilled in **React, TypeScript, Node, Redux, Next.js, GraphQL, and REST**, with extensive experience implementing solutions for **accessibility (WCAG 2.1 AA)**, **localization**, **responsive design**, and thorough testing (unit, integration, E2E). Proven track record of delivering impactful projects across healthcare, SaaS, travel, and online booking platforms, driving significant improvements in conversion rates and revenue. Quick learner, adaptable, and experienced working remotely in diverse, cross-functional teams.
 
 
 ## Experience
@@ -25,10 +25,10 @@ Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDx
 **Senior Software Developer**
 *Jan 2022 – Present*
 
-- Developed **Behavioral Health** solution using **React**, **NextJS**, **TypeScript**, **GraphQL**, and **React Testing Library** to improve user experience, access to care, and clinical outcomes while reducing Total Cost of Care
+- Contributed to the development and improvement of core products across the consumer-facing and admin-facing applications using **React**, **NextJS**, **TypeScript**, **GraphQL**, and **React Testing Library** to enhance user experience, expand access to care, support clients and care teams, and help reduce Total Cost of Care
 - Redesigned components for **WCAG 2.1 AA compliance**
 - Built a scalable **Stripe-based cost-sharing system** for flexible client billing scenarios
-- Implemented dynamic client campaign modals with Contentful integration, handling multiple active campaigns while ensuring only one is shown at a time
+- Implemented dynamic client campaign modals with **Contentful** integration, handling multiple active campaigns while ensuring only one is shown at a time
 
 
 ### OpenTable
@@ -36,9 +36,9 @@ Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDx
 **Senior Software Developer**
 *Aug 2017 – Dec 2021 · 4 yrs 4 mos*
 
-- Migrated legacy jQuery-based application to an isomorphic, responsive, cross-browser compatible, and accessibility-compliant app using **React**, **Redux**, **Express**, **Cypress**, **GraphQL**, and **REST** with minimal downtime
-- Collaborated with product and UX/UI design teams to improve the platform and launch new products through **A/B testing**, resulting in up to **2,700% increase in conversion** and **12% incremental revenue**
-- Used the COVID-19 pandemic as an opportunity to pay off technical debt and explore new markets, leading to the development of new products
+- Migrated legacy jQuery-based applications into responsive, accessible **React** apps using **Redux**, **GraphQL**, **Express**, and **Cypress**, minimizing downtime
+- Collaborated with product and UX/UI teams on features driving up to **2700% conversion increases** and **12% incremental revenue** via **A/B testing**
+- Led technical debt resolution and product innovation during the COVID-19 pandemic
 
 
 ### Atlassian
@@ -49,6 +49,7 @@ Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDx
 - Developed **Trello Power-Ups** for [Bitbucket](https://support.atlassian.com/trello/docs/using-the-bitbucket-power-up/), [JIRA](https://trello.com/power-ups/586be36326cc4c7e9f70beb3) and [Confluence](https://trello.com/power-ups/586be37142f94dc0871fbcbb) using **JavaScript**, **SCSS**, and **Webpack** to attach branches, commits, and pull requests to cards and provide real-time status updates
 - Assisted in developing a video collaboration Power-Up using **React** and **OneSignal** for push notifications, powered by the **Atlassian Video Service**
 - Worked with **Atlassian Connect Express** to streamline the process of creating Atlassian products
+- Used **Atlassian Connect Express** to simplify and accelerate the development of Atlassian integrations
 
 
 ### Encora Labs
