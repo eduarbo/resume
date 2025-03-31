@@ -1,6 +1,5 @@
 # Eduardo Ruiz Macias
-**Senior Software Developer**
-[*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (Remote - CST) | [eduarbo@gmail.com](mailto:eduarbo@gmail.com)
+## Senior Software Developer
 
 > [!IMPORTANT]
 > **Note for Recruiters:**
@@ -17,7 +16,7 @@
 
 ## Professional Summary
 
-Senior Software Developer with **14+ years of experience** specializing in front-end development and building scalable, user-focused web applications. Skilled in **React, TypeScript, Node, Redux, GraphQL, and REST**, with extensive experience implementing solutions for **accessibility (WCAG 2.1 AA)**, **localization**, **responsive design**, and thorough testing (unit, integration, E2E). Proven track record of delivering impactful projects across healthcare, SaaS, travel, and e-commerce industries, driving significant improvements in conversion rates and revenue. Quick learner, adaptable, and experienced working remotely in diverse, cross-functional teams.
+Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (Remote - CST) with **14+ years of experience** specializing in front-end development and building scalable, user-focused web applications. Skilled in **React, TypeScript, Node, Redux, GraphQL, and REST**, with extensive experience implementing solutions for **accessibility (WCAG 2.1 AA)**, **localization**, **responsive design**, and thorough testing (unit, integration, E2E). Proven track record of delivering impactful projects across healthcare, SaaS, travel, and e-commerce industries, driving significant improvements in conversion rates and revenue. Quick learner, adaptable, and experienced working remotely in diverse, cross-functional teams.
 
 
 ## Experience
