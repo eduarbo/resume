@@ -2,8 +2,8 @@
 **Senior Software Developer**
 [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (Remote - CST) | [eduarbo@gmail.com](mailto:eduarbo@gmail.com)
 
-> **Warning** Attention Recruiters
->
+> [!IMPORTANT]
+> **Note for Recruiters:**
 > To save your valuable recruiting time, please consider:
 > 
 > - I am not a US citizen
