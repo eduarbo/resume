@@ -15,12 +15,12 @@
 
 ## Professional Summary
 
-Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (Remote - CST) with **14+ years of experience** specializing in front-end development and building scalable, user-focused web applications. Skilled in **React, TypeScript, Node, Redux, Next.js, GraphQL, and REST**, with extensive experience implementing solutions for **accessibility (WCAG 2.1 AA)**, **localization**, **responsive design**, and thorough testing (unit, integration, E2E). Proven track record of delivering impactful projects across healthcare, SaaS, travel, and online booking platforms, driving significant improvements in conversion rates and revenue. Quick learner, adaptable, and experienced working remotely in diverse, cross-functional teams.
+Senior Software Developer based in [*Colima, México*](https://goo.gl/maps/Dq3yZHkDxJMb3N3A6) (Remote - CST), with **14+ years of experience** specializing in front-end development and building scalable, user-focused web applications. Skilled in **React, TypeScript, Node, Redux, Next.js, GraphQL, and REST**, with extensive experience implementing solutions for **accessibility (WCAG 2.1 AA)**, **localization**, **responsive design**, and thorough testing (unit, integration, E2E). Proven track record of delivering impactful projects across healthcare, SaaS, travel, and online booking platforms, driving significant improvements in conversion rates and revenue. Quick learner, adaptable, and experienced working remotely in diverse, cross-functional teams.
 
 
 ## Experience
 
-### Transcarent
+### Transcarent (via Encora)
 
 **Senior Software Developer**
 *Jan 2022 – Present*
@@ -31,7 +31,7 @@ Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDx
 - Implemented dynamic client campaign modals with **Contentful** integration, handling multiple active campaigns while ensuring only one is shown at a time
 
 
-### OpenTable
+### OpenTable (via Encora)
 
 **Senior Software Developer**
 *Aug 2017 – Dec 2021 · 4 yrs 4 mos*
@@ -41,18 +41,17 @@ Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDx
 - Led technical debt resolution and product innovation during the COVID-19 pandemic
 
 
-### Atlassian
+### Atlassian (via Encora)
 
 **Senior Front End Developer**
 *Oct 2016 – Jun 2017 · 9 mos*
 
 - Developed **Trello Power-Ups** for [Bitbucket](https://support.atlassian.com/trello/docs/using-the-bitbucket-power-up/), [JIRA](https://trello.com/power-ups/586be36326cc4c7e9f70beb3) and [Confluence](https://trello.com/power-ups/586be37142f94dc0871fbcbb) using **JavaScript**, **SCSS**, and **Webpack** to attach branches, commits, and pull requests to cards and provide real-time status updates
 - Assisted in developing a video collaboration Power-Up using **React** and **OneSignal** for push notifications, powered by the **Atlassian Video Service**
-- Worked with **Atlassian Connect Express** to streamline the process of creating Atlassian products
 - Used **Atlassian Connect Express** to simplify and accelerate the development of Atlassian integrations
 
 
-### Encora Labs
+### Encora Innovation Labs
 
 **Senior Front End Developer**
 *Jan 2016 – Sep 2016 · 9 mos*
@@ -61,7 +60,7 @@ Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDx
 - Developed an in-house Knowledge Management platform using **React**
 
 
-### Switchfly
+### Switchfly (via Encora)
 
 **Front End Developer**
 *Mar 2013 – Dec 2015 · 2 yrs 10 mos*
@@ -72,9 +71,9 @@ Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDx
 - Ensured compliance with security standards (**PCI-DSS**)
 
 
-### Tangosource
+### Tango
 
-**Junior Front End Developer**
+**Front End Developer**
 *Aug 2010 – Feb 2013 · 2 yrs 7 mos*
 
 - Developed web applications for various markets, including simple static sites, **WordPress** templates, and complex **Single Page Applications** (SPAs) using technologies like **Node**, **Ruby on Rails**, **Backbone**, **SproutCore**, and **jQuery**
@@ -83,7 +82,7 @@ Senior Software Developer from [*Colima, México*](https://goo.gl/maps/Dq3yZHkDx
 
 ### Freelance
 
-**Junior Front End Developer and Blogger**
+**Front End Developer and Blogger**
 *Oct 2007 – Jul 2010 · 2 yrs 10 mos*
 
 - Designed and developed responsive and SEO-friendly **WordPress** templates
