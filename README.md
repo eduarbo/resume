@@ -1,5 +1,4 @@
-# Eduardo Ruiz Macias
-## Senior Software Developer
+<h1 align="center">Eduardo Ruiz Macias<br /><sub>Senior Software Developer</sub></h1>
 
 > [!IMPORTANT]
 > **Note for Recruiters:**
